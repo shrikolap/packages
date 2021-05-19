@@ -1,0 +1,15 @@
+Package: kspot_binary
+Version: 0.1
+Section: base
+Architecture: mips_24kc
+Maintainer: Poky <poky@yoctoproject.org>
+MD5Sum: cf9e507b3c93e07fa050c0b83c68b8f4
+Size: 1966276
+Filename: kspot_binary_0.1-1_mips_24kc.ipk
+Source: kspot
+Description: Utilities for managing LZMA compressed files kspot
+ Utilities for managing LZMA compressed files kspot.
+OE: xz
+HomePage: http://tukaani.org/xz/
+License: GPLv2+
+Priority: optional
